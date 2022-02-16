@@ -255,7 +255,7 @@ nav ul li:hover {
   .avatar {
     width: 800px;
     position: absolute;
-    right: 10%;
+    right: 5%;
     bottom: 0;
     transition: all 1s ease-in;
   }
